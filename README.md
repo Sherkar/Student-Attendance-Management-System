@@ -1,4 +1,5 @@
 # Student-Attendance-Management-System
-The Student Attendance Management System is a full stack Java web application designed to simplify and automate the process of managing student attendance.
-It replaces manual registers with a digital system where attendance can be recorded, stored, viewed, and managed efficiently.
-This project demonstrates real-world usage of Java, Spring Boot, REST APIs, database integration, and frontend technologies, following industry-style application flow.
+The Student Attendance Management System is a full stack Java web application developed to automate and manage student attendance efficiently.
+This system replaces traditional manual attendance registers with a digital solution that allows easy recording, updating, and tracking of attendance records.
+
+The project is built using Spring Boot for backend development and React.js for the frontend, following industry-standard architecture and best practices.
